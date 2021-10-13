@@ -15,5 +15,9 @@ MATLAB Script and Files Used:
 
 Now you have the 3D environment of the 2D occupancy grid map.
 
+Step by Step Instruction
+https://www.youtube.com/watch?v=z7Jl-OgBbjw
+
+
 For Further Queries : siddharth.some@gmail.com
 #occupancygridmap #stlfile #ros #matlab #vrep #coppeliasim #robotics #autonomousnavigation #rosgazebo #gazebo #rossimulation #mapping #lidarscan #matlabfunction
